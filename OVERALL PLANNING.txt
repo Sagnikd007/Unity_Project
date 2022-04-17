@@ -1,0 +1,32 @@
+here the player is a capsule(named-SagnikD)
+placed in a rectangle like platform
+
+capsule is made as a rigid body
+gravity is working on it
+rotations neglected to prevent it from falling down unnecessarily
+->go to constraints then freeze rotations x,y,z in all 3 axes
+Adjust the camera for a nice game view
+
+for the controls or movement on capsule/player 
+on Add components ->new script
+then code is done on update part for movement in any directions
+space-jump
+forwars-^ up arrow
+left right back vice versa done
+in Physics portion i made dynamic & static friction as 0
+for no problem in movement ,and bounce as 1
+
+materials added to various platforms
+obstacles such as cube cyclinder or quad is aslo added
+press ctrl+D it helped in duplicating objects and maintaing same alignment
+
+
+But I was unable to move platforms and the 3d objects/obstacles dynamically in the game
+ 
+Anyways thanks Saurav sir for teaching the basics of Unity 3d very well
+
+Thank You
+whoever reads this txt file, its my first unity project.
+ 
+ 
+
